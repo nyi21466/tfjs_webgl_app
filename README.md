@@ -1,4 +1,4 @@
-# tfjs_webgl_app
+# TensorFlow.js Webgl Web App
 WebGL visualization apps using TensorFlow.js
 
 ## Handpose
@@ -45,8 +45,7 @@ Live demo is [here](https://terryky.github.io/tfjs_webgl_app/face_inspector).<br
 Live demo is [here](https://terryky.github.io/tfjs_webgl_app/classification).<br>
 [<img src="classification/classification.gif" width=300>](https://terryky.github.io/tfjs_webgl_app/classification)
 
-
-# Acknowledgements
+## Acknowledgements
 - https://github.com/tensorflow/tfjs-models
 - https://github.com/google/mediapipe
 - https://github.com/PINTO0309/PINTO_model_zoo/tree/master/061_U-2-Net/20_portrait_model
